@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="path/to/solar-system.gif" alt="Rendering Solar System">
+  <img src="./solarSystem/solar-system.gif" alt="Rendering Solar System">
 </div>
 
 # Rendering Solar System
